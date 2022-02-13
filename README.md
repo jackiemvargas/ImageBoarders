@@ -1,13 +1,13 @@
+#Image-Boarder
+
 <!DOCTYPE html>
 <!-- This is my own work. -->
 <html>
-<head>
-<title>Mouse in pocket</title>
-</head>
+<head>"Mouse image using border-radius attributes to round image corners of an image"</head>
 
 <body bgcolor="powerblue">
 <header>
-	<h1 style="text-align":left;">Mouse image using border-radius attributes to round image corners of an image</h1>
+	<h1 style="text-align":left;">Mouse in Pocket</h1>
 </header>
 
 <img src="mouse.jpg" style="border-radius:1px"/>
